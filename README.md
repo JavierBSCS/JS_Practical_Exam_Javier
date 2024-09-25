@@ -1,4 +1,4 @@
-explains what the repository is about(describe that it contains practical exam solutions for javascript)
+Explains what the repository is about(describe that it contains practical exam solutions for javascript)
 
  Practical Exam Solutions for JavaScript
 
