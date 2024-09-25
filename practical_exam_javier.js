@@ -14,6 +14,7 @@ let isAdult = age >= 18;
 //d. Use arithmetic operators to find the remainder when dividing your age by 5
 let remainder = age % 5;
 
+//Display
 console.log(name, yearBorn, isAdult, remainder);
 
 
@@ -36,6 +37,7 @@ function findFirstA(str) {
 let originalString = "I am learning JavaScript at School";
 let updatedString = originalString.replace(/JavaScript/g, "JS");
 
+//Display
 console.log(sentence, toUpperCase(sentence), findFirstA(sentence), updatedString);
 
 
