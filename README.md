@@ -1,1 +1,3 @@
-# JS_Practical_Exam_Javier
+explains what the repository is about(describe that it contains practical exam solutions for javascript)
+
+This repository contains practical exam solutions for JavaScript. It includes a collection of coding challenges and their respective solutions, aimed at helping learners understand key concepts and improve their problem-solving skills in JavaScript. Each solution is designed to be clear and well-documented, making it easier for users to follow along and learn from the examples provided. Whether you're preparing for exams or just want to enhance your coding abilities, this repository serves as a valuable resource for hands-on practice and learning.
